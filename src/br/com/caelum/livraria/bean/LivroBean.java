@@ -7,7 +7,7 @@ import br.com.caelum.livraria.modelo.Livro;
 
 @ManagedBean
 public class LivroBean {
-	//teste eclipse
+	//teste eclipse novamente
 	private Livro livro = new Livro();
 
 	public Livro getLivro() {
